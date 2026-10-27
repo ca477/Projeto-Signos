@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(135deg, #f3e7ff, #e2eafc);
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.card {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 8px 25px rgba(75, 45, 120, 0.15);
+}
+
+h1 {
+    color: #6f42c1;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.form-control {
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.btn-primary {
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+    border-radius: 10px;
+    padding: 12px;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #59359c;
+    border-color: #59359c;
+}
